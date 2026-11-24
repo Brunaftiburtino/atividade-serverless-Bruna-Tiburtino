@@ -1,0 +1,8 @@
+{
+  "body": "{\"requisicaoId\":\"R-001\",\"hospital\":\"H-Recife\",\"bolsas\":[\"O-NEG-0142\"]}",
+  "resource": "/guias",
+  "path": "/guias",
+  "httpMethod": "POST",
+  "isBase64Encoded": false,
+  "headers": {"Content-Type": "application/json"}
+}
