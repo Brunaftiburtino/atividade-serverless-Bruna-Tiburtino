@@ -3,7 +3,7 @@
 **Estudante:** Bruna Ferreira Tiburtino
 **Disciplina:** Infraestrutura de Software · ADS · CESAR School · 2026.2
 **Caminho escolhido:** A (AWS SAM CLI local, Python 3.12, Docker Desktop, Windows com VS Code)
-**Vídeo (até 3 min):** _<cole aqui o link>_
+**Vídeo (até 3 min):** _<https://youtu.be/GHBn-7VTgco>_
 
 Função serverless que gera a guia de transporte de uma requisição de hemocomponentes. Recebe um
 JSON no `body`, valida `requisicaoId` e devolve a guia com o número da invocação no ambiente.
